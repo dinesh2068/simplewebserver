@@ -93,7 +93,9 @@ httpd.serve_forever()
 
 
 
-
+ksviwdvi
+dsiv wii v
+sd v
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
