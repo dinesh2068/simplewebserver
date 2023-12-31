@@ -3,7 +3,6 @@
 
 ## AIM:
 To develop a simple webserver to serve html pages.
-## diwnf
 
 ## DESIGN STEPS:
 ### Step 1: 
@@ -92,13 +91,10 @@ httpd.serve_forever()
 ## OUTPUT:
 ![output1](https://github.com/dinesh2068/simplewebserver/assets/151390189/79b493d7-5d7b-488b-9e01-af031edbf216)
 
+![output2](https://github.com/dinesh2068/simplewebserver/assets/151390189/8cd6a115-f787-4eb6-b26a-671f88e9f9f8)
 
 
-ksviwdvi
-dsiv wii v
-sd v
 
 ## RESULT:
-hrsyzytuz
 
 The program for implementing simple webserver is executed successfully.
