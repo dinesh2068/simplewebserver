@@ -82,8 +82,8 @@ httpd.serve_forever()
 '''
 
 ## OUTPUT:
-![output1](https://github.com/dinesh2068/simplewebserver/assets/151390189/a05160a7-6c6f-43fe-97b8-8fd0a0654537)
-![output2](https://github.com/dinesh2068/simplewebserver/assets/151390189/0bbcd85f-5cb8-4bcc-ae60-99fc32db5c1a)
+![output1](https://github.com/dinesh2068/simplewebserver/assets/151390189/79b493d7-5d7b-488b-9e01-af031edbf216)
+![output2](https://github.com/dinesh2068/simplewebserver/assets/151390189/1af6fb82-e6d6-4847-aa54-fa0244d09778)
 
 
 ## RESULT:
