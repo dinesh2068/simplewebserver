@@ -81,6 +81,13 @@ print("My webserver is running...")
 httpd.serve_forever()
 '''
 
+
+
+
+
+
+
+
 ## OUTPUT:
 ![output1](https://github.com/dinesh2068/simplewebserver/assets/151390189/79b493d7-5d7b-488b-9e01-af031edbf216)
 
